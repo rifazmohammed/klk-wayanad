@@ -1,0 +1,30 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Kerala LalithakalaAkademi Art Gallery - Mananthavadi
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_C2BD06C8_E7AB_8F44_41B2_99175CC78E7D.label = Mananthavady Art Gallery
+panorama_C36D9A09_E7AA_86C4_41E0_D5336A25DFED.label = Mananthavady Art Gallery
+panorama_C3E9DFF1_E7AA_9D44_419D_53D762465B60.label = Mananthavady Art Gallery
+panorama_ED315B8E_E766_85DC_41D4_181DB409E989.label = Mananthavady Art Gallery
+panorama_ED318A86_E766_87CC_41E3_2E5FB0B97DB0.label = Mananthavady Art Gallery
+panorama_ED319B58_E766_8544_41E4_B6D87170DA41.label = Mananthavady Art Gallery
+panorama_ED319BC2_E766_8544_41EA_5B7FCB4C43E9.label = Mananthavady Art Gallery
+panorama_ED31CB1F_E766_86FC_41E5_8A653D56ED60.label = Mananthavady Art Gallery
